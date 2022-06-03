@@ -15,4 +15,5 @@ func main() {
 
 	// go run zoo/main.go zoo/app.go または　zoo/*.goと指定
 	fmt.Println(AppName())
+
 }
